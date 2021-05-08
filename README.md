@@ -18,7 +18,7 @@
 
 - [接口文档](#)
   - [接口介绍](documents/接口文档/接口介绍.md)
-  - [文章接口](documents/接口文档/文章列表.md)
+  - [文章接口](documents/接口文档/文章接口/文章列表.md)
 
 - [经验分享](#)
   - [我所遇到的ElementUi响应式问题](documents/经验分享/我所遇到的ElementUi响应式问题.md)
