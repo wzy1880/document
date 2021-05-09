@@ -2,15 +2,10 @@
  
 是一个使用 [nuxt2](https://www.nuxtjs.cn/) , [vue2](https://cn.vuejs.org/) 搭建而成的在线设计网页的系统
 
-## 框架主流程图
 
-****
-
-![业务流程图](./documents/images/可视化平台框架流程图.png)
+---
 
 ## 目录
-
-****
 
 - [产品架构](documents/产品架构.md)
   - [任务总览](documents/产品架构.md#任务总览)
